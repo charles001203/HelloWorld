@@ -31,7 +31,7 @@ GIF created with LiceCap
 
 Describe any challenges encountered while building the app.
 * Emulator take a little long to load
-* Coding in Kotlin is very new to me, so it can a little unintuitive sometimes
+* Coding in Kotlin is very new to me, so it can be a little unintuitive sometimes
 
 ## License
 
